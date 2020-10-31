@@ -1,4 +1,5 @@
 # Ashrain-H.github.io
+![logo](https://s1.ax1x.com/2020/08/24/dDUPM9.gif)
 [焰狐工作室https://flarefox.cn](https://flarefox.cn)更新及维护日志
 | 更新日期 | 更新内容 |
 | --- | --- | 
